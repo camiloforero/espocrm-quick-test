@@ -1,0 +1,3 @@
+[submodule "django_expa"]
+	path = django_expa
+	url = https://github.com/camiloforero/django_expa.git
